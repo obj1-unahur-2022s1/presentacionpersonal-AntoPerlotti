@@ -1,8 +1,8 @@
 # Presentación de Programación con Objetos I de Antonella Perlotti
-- [x] Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
+- [x] Estudiante de Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
 - [x] Instituto de Tecnología e Ingeniería 
-- [x] Licenciatura en Informática
-- [x] Pagína Web de [Cursada](https://obj1-unahur.github.io/)
+- [x] Tecnicatura en programación
+- [x] AQUÍ ESTOY! (https://www.google.com/url?sa=i&url=https%3A%2F%2Fmemegenerator.net%2Finstance%2F33055357%2Fi-have-no-idea-what-im-doing-dog-with-tie-no-tengo-idea-de-lo-que-estoy-haciendo&psig=AOvVaw2pHcSSIkRauumefKjBS4ZB&ust=1649274415172000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCODwuJTY_fYCFQAAAAAdAAAAABAD)
 
 ## Este cuatrimestre 
 * Modalidad Mixta - [Cronograma de Clase](https://docs.google.com/spreadsheets/d/19FZB2t00NWQ7dwygWRktajAV2mjbeTOqePBJ9XRWacw/edit?usp=sharing). 
