@@ -6,6 +6,7 @@
 
 ## Este cuatrimestre 
 * Me propongo a dar todo de mi para poder aprender y aprobar de manera satisfactoria las materias en curso.
+
 **SI LO DESEO, LO PUEDO**
 ![SI LO DESEO, LO PUEDO.](https://c.tenor.com/1W4R6ZgpcVsAAAAM/ricardofort-dancing.gif)
 
